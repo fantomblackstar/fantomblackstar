@@ -4,4 +4,4 @@
 
 - 📫 How to reach me to Middle developer?)
 
--Be better today, tommorow , always than you ware yesterday.
+-Be better today, tommorow, always (than you ware yesterday)
