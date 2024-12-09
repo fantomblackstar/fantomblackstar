@@ -18,7 +18,7 @@
 
 
 ### :man_technologist: About Me :
-- :telescope: I’m working as a React Developer for building web applications.
+- :telescope: I’m working as a Fullstack Developer for building web applications.
 
 - :seedling: Exploring Frontend Developing Content.
 
