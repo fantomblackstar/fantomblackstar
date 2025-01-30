@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="100"/>
 </div>
 <div align="center">
-  <a href="https://www.linkedin.com/in/vasyl-voloshyn-9142b324b">
+  <a href="https://www.linkedin.com/in/vasyl-voloshyn-dev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
 <h1 align='left'> Look at my 
-<a href="https://fantomblackstar.github.io/Portfolio/" target="_blank">
+<a href="https://fantomblackstar.github.io/portfolio/" target="_blank">
     portfolio 
   </a>
 </h1>
@@ -24,7 +24,7 @@
 
 - :zap: In my free time, I read tech articles or watch this one on youtube.
 
-- :mailbox:You can reach me here:   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasyl-voloshyn-9142b324b)
+- :mailbox:You can reach me here:   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasyl-voloshyn-dev)
 
 
 ----
